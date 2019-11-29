@@ -1,0 +1,6 @@
+D:\C-Sharp\Homework\lvl1\Урок 1\Задание 3.1\bin\Debug\Задание 3.1.exe.config
+D:\C-Sharp\Homework\lvl1\Урок 1\Задание 3.1\bin\Debug\Задание 3.1.exe
+D:\C-Sharp\Homework\lvl1\Урок 1\Задание 3.1\bin\Debug\Задание 3.1.pdb
+D:\C-Sharp\Homework\lvl1\Урок 1\Задание 3.1\obj\Debug\Задание 3.1.csprojAssemblyReference.cache
+D:\C-Sharp\Homework\lvl1\Урок 1\Задание 3.1\obj\Debug\Задание 3.1.exe
+D:\C-Sharp\Homework\lvl1\Урок 1\Задание 3.1\obj\Debug\Задание 3.1.pdb
